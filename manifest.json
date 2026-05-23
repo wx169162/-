@@ -1,7 +1,7 @@
 {
-  "name": "PWA测试",
-  "short_name": "PWA测试",
-  "description": "PWA测试页",
+  "name": "小账本测试",
+  "short_name": "测试",
+  "description": "这是一个PWA测试页面",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#faf8f5",
